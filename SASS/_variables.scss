@@ -1,0 +1,19 @@
+/* Colors */
+$primary-Red: hsl(0, 78%, 62%);
+$primary-Cyan: hsl(180, 62%, 55%);
+$primary-Orange: hsl(34, 97%, 64%);
+$primary-Blue: hsl(212, 86%, 64%);
+
+$neutral-Very-Dark-Blue: hsl(234, 12%, 34%);
+$neutral-Grayish-Blue: hsl(229, 6%, 66%);
+$neutral-Very-Light-Gray: hsl(0, 0%, 98%);
+
+$font-s: 1rem;
+$font-m: 1.2rem;
+$font-l: 1.4rem;
+$font-xl: 1.6rem;
+
+@font-face {
+    font-family: Poppins;
+    src: url('../Font/Poppins-Regular.ttf');
+}
